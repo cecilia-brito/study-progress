@@ -10,7 +10,7 @@ Tabela de conteúdos
 
 ## O que é? 
 
-<p>Nesse repositório eu quero fazer uma linha temporal dos meus aprendizados e experiências com programação e tecnologia de uma forma bem humorada(ou pelo menos algo próximo disso). Pretenso atualizar pelo menos a cada ano como uma forma de celebrar a minha trajetória até aqui. Então pegue seu café, chá ou água e se sinta a vontade para ler as aventuras e desventuras de uma dev em construção.</p>
+<p>Nesse repositório eu quero fazer uma linha temporal dos meus aprendizados e experiências com programação e tecnologia de uma forma bem humorada(ou pelo menos algo próximo disso). Pretendo atualizar pelo menos a cada ano como uma forma de celebrar a minha trajetória até aqui. Então pegue seu café, chá ou água e se sinta a vontade para ler as aventuras e desventuras de uma dev em construção.</p>
   
 ## 2019
 
